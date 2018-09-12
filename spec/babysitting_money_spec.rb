@@ -9,4 +9,11 @@ describe BabysittinMoney do
     expect(subject.gimme_my_money(Time.new(2018, 07, 04, 17), 0, Time.new(2018, 07, 05, 03))).to eq 120
   end
 
+  it 'I provide bad data' do
+    expect(subject.gimme_my_money(Time.new(2018, 07, 04, 17), 0, 7)).to eq 'error bro'
+  end
+
+  it 'I provide more bad data' do
+    expect(subject.gimme_my_money('12 AM', nil, 'jhg')).to eq 'error bro'
+  end
 end

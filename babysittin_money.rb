@@ -4,7 +4,7 @@ class BabysittinMoney
 
   def gimme_my_money(start_time, bed_time, finish_time)
 
-    midnight = start_time.beginning_of_day + 1.day
+    midnight = start_time.beginning_of_day + 1.day if start_time.class == Time
 
     if start_time.class == Time && bed_time.class == Time && finish_time.class == Time
       start_to_bed = TimeDifference.between(start_time, bed_time).in_hours * 12
@@ -13,7 +13,7 @@ class BabysittinMoney
 
       money_made(start_to_bed, bed_to_midnight, making_bank)
 
-    elsif bed_time == 0
+    elsif bed_time == 0 && start_time.class == Time && finish_time.class == Time
       start_to_bed = TimeDifference.between(start_time, finish_time).in_hours * 12
       bed_to_midnight = 0
       making_bank = 0
@@ -21,7 +21,7 @@ class BabysittinMoney
       money_made(start_to_bed, bed_to_midnight, making_bank)
 
     else
-      puts 'error bro'
+      return 'error bro'
 
     end
   end
