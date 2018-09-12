@@ -1,0 +1,3 @@
+class BabysittinMoney
+
+end
