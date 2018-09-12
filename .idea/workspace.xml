@@ -14,8 +14,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/babysittin_money@Run_spec__babysitting_money_spec___babysittin_money.coverage" NAME="Run spec 'babysitting_money_spec': babysittin_money Coverage Results" MODIFIED="1536779139361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
-    <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney__babysittin_money.coverage" NAME="BabysittinMoney: babysittin_money Coverage Results" MODIFIED="1536780317313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
+    <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney_kid_never_goes_to_bed__babysittin_money.coverage" NAME="BabysittinMoney kid never goes to bed: babysittin_money Coverage Results" MODIFIED="1536783684599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
+    <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney_start_at_5PM__bed_at_9PM__parents_arrive_home_drunk_at_3AM__babysittin_money.coverage" NAME="BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM: babysittin_money Coverage Results" MODIFIED="1536782038180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
+    <SUITE FILE_PATH="coverage/babysittin_money@Run_spec__babysitting_money_spec___babysittin_money.coverage" NAME="Run spec 'babysitting_money_spec': babysittin_money Coverage Results" MODIFIED="1536781974341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
+    <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney__babysittin_money.coverage" NAME="BabysittinMoney: babysittin_money Coverage Results" MODIFIED="1536783819349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -30,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/spec/babysitting_money_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="115" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -40,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/babysittin_money.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,8 +51,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12875536">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.09656652">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -61,9 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/babysittin_money.rb" />
-        <option value="$PROJECT_DIR$/spec/babysitting_money_spec.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/babysitting_money_spec.rb" />
+        <option value="$PROJECT_DIR$/babysittin_money.rb" />
       </list>
     </option>
   </component>
@@ -233,6 +235,72 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="false" name="BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM: babysittin_money" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="babysittin_money" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/babysitting_money_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BabysittinMoney kid never goes to bed: babysittin_money" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="babysittin_money" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/babysitting_money_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="BabysittinMoney kid never goes to bed" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -356,14 +424,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'babysitting_money_spec': babysittin_money" />
       <item index="1" class="java.lang.String" itemvalue="RSpec.BabysittinMoney: babysittin_money" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM: babysittin_money" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.BabysittinMoney kid never goes to bed: babysittin_money" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="RSpec.BabysittinMoney: babysittin_money" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'babysitting_money_spec': babysittin_money" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.BabysittinMoney kid never goes to bed: babysittin_money" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM: babysittin_money" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'babysitting_money_spec': babysittin_money" />
       </list>
     </recent_temporary>
   </component>
@@ -381,50 +453,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 13m 25s.xml">
+    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 16h 21m 48s.xml">
       <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 13m 51s.xml">
+    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 16h 23m 39s.xml">
       <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 16m 55s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 16m 28s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 17m 25s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 17m 18s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 17m 32s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 17m 36s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 17m 47s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 18m 53s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 20m 41s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 20m 40s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 22m 47s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 20m 57s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 25m 14s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 21m 06s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="BabysittinMoney__babysittin_money - 2018.09.12 at 15h 25m 18s.xml">
-      <configuration name="BabysittinMoney: babysittin_money" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="BabysittinMoney_kid_never_goes_to_bed__babysittin_money - 2018.09.12 at 16h 21m 25s.xml">
+      <configuration name="BabysittinMoney kid never goes to bed: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31831187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3233831" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270073" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38930348" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39427862" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -441,7 +522,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/babysittin_money.rb</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/babysittin_money.rb</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -470,10 +563,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/babysitting_money_spec.rb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/time_difference-0.7.0/lib/time_difference.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32188842">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-expectations-3.8.1/lib/rspec/expectations/syntax.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="115" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-support-3.8.0/lib/rspec/support.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.8.0/lib/rspec/core/example.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.478355">
+          <caret line="284" column="0" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-expectations-3.8.1/lib/rspec/expectations/expectation_target.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36580086">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-expectations-3.8.1/lib/rspec/matchers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="558" column="0" selection-start-line="558" selection-start-column="0" selection-end-line="558" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -481,15 +614,23 @@
     <entry file="file://$PROJECT_DIR$/babysittin_money.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/babysitting_money_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12875536">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09656652">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
