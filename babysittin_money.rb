@@ -26,8 +26,8 @@ class BabysittinMoney
 
   end
 
-  def money_made(rate1, rate2, rate3)
-    rate1+rate2+rate3
+  def money_made(*rates)
+    rates.inject(0,:+)
   end
 
 end

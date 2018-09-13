@@ -21,7 +21,7 @@
     <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney_I_provide_shit_data__babysittin_money.coverage" NAME="BabysittinMoney I provide shit data: babysittin_money Coverage Results" MODIFIED="1536784541741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
     <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney_I_provide_more_shit_data__babysittin_money.coverage" NAME="BabysittinMoney I provide more shit data: babysittin_money Coverage Results" MODIFIED="1536784890441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
     <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney_start_at_5PM__bed_at_9PM__parents_arrive_home_drunk_at_3AM__babysittin_money.coverage" NAME="BabysittinMoney start at 5PM, bed at 9PM, parents arrive home drunk at 3AM: babysittin_money Coverage Results" MODIFIED="1536782038180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
-    <SUITE FILE_PATH="coverage/babysittin_money@Run_spec__babysitting_money_spec___babysittin_money.coverage" NAME="Run spec 'babysitting_money_spec': babysittin_money Coverage Results" MODIFIED="1536853687304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
+    <SUITE FILE_PATH="coverage/babysittin_money@Run_spec__babysitting_money_spec___babysittin_money.coverage" NAME="Run spec 'babysitting_money_spec': babysittin_money Coverage Results" MODIFIED="1536854768371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
     <SUITE FILE_PATH="coverage/babysittin_money@BabysittinMoney__babysittin_money.coverage" NAME="BabysittinMoney: babysittin_money Coverage Results" MODIFIED="1536784226009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="babysittin_money" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -46,8 +46,8 @@
       <file leaf-file-name="babysittin_money.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/babysittin_money.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41845495">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.80472106">
+              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -501,15 +501,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BabysittinMoney_I_provide_more_shit_data__babysittin_money - 2018.09.12 at 16h 36m 20s.xml">
-      <configuration name="BabysittinMoney I provide more shit data: babysittin_money" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="BabysittinMoney_I_provide_more_shit_data__babysittin_money - 2018.09.12 at 16h 39m 39s.xml">
-      <configuration name="BabysittinMoney I provide more shit data: babysittin_money" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="BabysittinMoney_I_provide_more_shit_data__babysittin_money - 2018.09.12 at 16h 40m 48s.xml">
-      <configuration name="BabysittinMoney I provide more shit data: babysittin_money" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="BabysittinMoney_I_provide_more_shit_data__babysittin_money - 2018.09.12 at 16h 41m 19s.xml">
       <configuration name="BabysittinMoney I provide more shit data: babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -531,6 +522,15 @@
     <history-entry file="Run_spec__babysitting_money_spec___babysittin_money - 2018.09.13 at 11h 48m 08s.xml">
       <configuration name="Run spec 'babysitting_money_spec': babysittin_money" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec__babysitting_money_spec___babysittin_money - 2018.09.13 at 11h 53m 59s.xml">
+      <configuration name="Run spec 'babysitting_money_spec': babysittin_money" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec__babysitting_money_spec___babysittin_money - 2018.09.13 at 11h 54m 33s.xml">
+      <configuration name="Run spec 'babysitting_money_spec': babysittin_money" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec__babysitting_money_spec___babysittin_money - 2018.09.13 at 12h 06m 08s.xml">
+      <configuration name="Run spec 'babysitting_money_spec': babysittin_money" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,7 +550,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270073" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38930348" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38930348" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -665,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/babysittin_money.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41845495">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.80472106">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
           <folding />
         </state>
       </provider>
